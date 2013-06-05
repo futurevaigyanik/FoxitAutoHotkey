@@ -21,5 +21,4 @@ else
 GuiControl, , _Log, %Log%
 Run %Filename_dir%	;Open the destination folder
 
-
 Return
